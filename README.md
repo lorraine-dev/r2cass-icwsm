@@ -15,6 +15,7 @@ Click on the badges below to launch the interactive environments directly in you
 This demonstration showcases an analysis of politician claims and their fact-checking truth ratings from the LIAR dataset using **Python**. It walks you through data loading, truth rating distribution, and visualizing claims by party affiliation.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lorraine-dev/ICWSM-Reproducibility-Python-Demo/main)
+
 **GitHub Repository:** [ICWSM-Reproducibility-Python-Demo](https://github.com/lorraine-dev/ICWSM-Reproducibility-Python-Demo/tree/main)
 
 ### 📊 R Demo: Politician Claims Analysis (LIAR Dataset)
@@ -22,6 +23,7 @@ This demonstration showcases an analysis of politician claims and their fact-che
 This demonstration provides an example of the **same politician claims analysis from the LIAR dataset**, implemented in **R** and executed within an RStudio environment. It illustrates how to set up an R environment with necessary packages and run an R Markdown notebook directly in your browser, mirroring the Python analysis.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lorraine-dev/ICWSM-Reproducibility-R-Demo/main)
+
 **GitHub Repository:** [ICWSM-Reproducibility-R-Demo](https://github.com/lorraine-dev/ICWSM-Reproducibility-R-Demo)
 
 ---
